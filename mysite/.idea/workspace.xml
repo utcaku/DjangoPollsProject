@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61d2ebad-80a3-4499-b74d-43f7a1f73e7b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/views.py" afterPath="$PROJECT_DIR$/polls/views.py" />
     </list>
     <ignored path="mysite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -512,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496047870257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Improving our view">
+      <created>1496065077148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496065077148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -580,7 +586,8 @@
     <MESSAGE value="Use generic views" />
     <MESSAGE value="Testing" />
     <MESSAGE value="More comprehensive tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="More comprehensive tests" />
+    <MESSAGE value="Improving our view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improving our view" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
