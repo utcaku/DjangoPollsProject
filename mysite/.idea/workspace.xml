@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61d2ebad-80a3-4499-b74d-43f7a1f73e7b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite.iws" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="404">
               <caret line="113" column="54" selection-start-line="113" selection-start-column="54" selection-end-line="113" selection-end-column="54" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -183,7 +183,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,6 +203,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -540,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497352949153</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".gitignore update 2">
+      <created>1497353128085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497353128085</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -614,7 +621,8 @@
     <MESSAGE value="Improving our view" />
     <MESSAGE value="Testing our new view" />
     <MESSAGE value=".gitignore update" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore update" />
+    <MESSAGE value=".gitignore update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore update 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1054,7 +1062,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="404">
           <caret line="113" column="54" selection-start-line="113" selection-start-column="54" selection-end-line="113" selection-end-column="54" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
