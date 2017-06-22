@@ -6,7 +6,7 @@ mysite/.DS_Store
 .idea/
 mysite/.idea/*
 mysite/.idea/
-mysite/.idea/workspace.xml
+mysite/.idea/.xml
 README.md
 mysite/__pycache__
 *.pyc
