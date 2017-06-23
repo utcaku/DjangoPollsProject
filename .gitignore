@@ -1,3 +1,4 @@
+.idea/workspace.xml
 mysite/*.pyc
 mysite/__pycache__
 mysite/db.sqlite3
@@ -6,7 +7,7 @@ mysite/.DS_Store
 .idea/
 mysite/.idea/*
 mysite/.idea/
-mysite/.idea/workspace.xml
+mysite/.idea/.xml
 README.md
 mysite/__pycache__
 *.pyc
