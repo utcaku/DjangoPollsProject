@@ -1,17 +1,2 @@
-.idea/workspace.xml
-mysite/*.pyc
-mysite/__pycache__
-mysite/db.sqlite3
-mysite/.DS_Store
 .idea/*
-.idea/
-mysite/.idea/*
-mysite/.idea/
-mysite/.idea/.xml
-README.md
-mysite/__pycache__
-*.pyc
-__pycache__
 db.sqlite3
-.DS_Store
-workspace.xml
